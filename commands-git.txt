@@ -1,0 +1,17 @@
+Pour cloner :
+git-begins->clone https://github.com/Ilyes-Bussy/git-begins-.git
+
+pour ajouter un dossier :
+git add .
+git add (nom fichier)
+
+pour sauvegarder completement le dossier :
+git commit 
+
+voir le statuts : 
+git status
+
+envoyer :
+git push
+
+
