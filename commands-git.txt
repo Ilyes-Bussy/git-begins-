@@ -17,3 +17,10 @@ git push
 récupérer les modification de github:
 git pull
 
+cree une branch :
+git branch add-create-branch-command
+
+
+switch de branch :
+git switch add-create-branch-command
+
